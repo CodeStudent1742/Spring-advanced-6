@@ -1,0 +1,3 @@
+rootProject.name = 'Spring-Advanced-6'
+include 'taskListValidator'
+
